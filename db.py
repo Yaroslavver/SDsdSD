@@ -1,9 +1,9 @@
 comands = "Выберите команду: \n1 - Поиск \n2 - Добавить устройство \n3 - Вывести список устройств \nExit - Выход"
 def check():
     with open("Base.txt","r") as file:
-        print("Расширенный поиск: \nВведите тип устройства:",end = " ")
+        print("Расширенный поиск: \nВведите тип устройства:",end = "")
         type = input()
-        print("Введите модель: ",end = " ")
+        print("Введите модель: ",end = "")
         model = input()
         for dt in file:
             if type in dt and model in dt:
@@ -11,7 +11,7 @@ def check():
 
 
 def add(tip, model, info):
-    file = open('baza.txt', 'a+')
+    file = open('Base.txt', 'a+')
     x = str(tip)+"#"+str(model)+"#"+str(info)+"\n"
     file.write(x)
     file.close()
@@ -31,8 +31,7 @@ while comand != "Exit":
 
     elif comand == "3":
         with open("Base.txt","r") as file:
-            for i in range(1,len(file)):
-                print(file.readline())
+            print(file.read())
 
     print(comands)
     comand = input()
