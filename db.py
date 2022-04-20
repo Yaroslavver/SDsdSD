@@ -1,1 +1,3 @@
-print("YES!")
+def ok():
+    return True
+print("wow")
