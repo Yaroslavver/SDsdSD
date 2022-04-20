@@ -1,3 +1,4 @@
+import json
 filer = open('baza.txt', 'r')
 filew = open('baza.txt', 'w')
 class b():
@@ -5,8 +6,6 @@ class b():
     def add(h1, h2):
         x = str(h1)+"#"+str(h2)+"\n"
         filew.write(x)
-        filew.close()
-        return
     def read(h1):
         x = (filer.read()).split('\n')
         info = ''
@@ -14,5 +13,9 @@ class b():
             if str(h1) in x[i]:
                 info += str(x[i])
         return info
-b.add('pc', 'ui')
-print(b.read('pc'))
+b.add('phone', 'Android')
+b.add('phone', 'Apple')
+b.add('PC', 'hp')
+b.add('PC', 'acer')
+b.add('PC', 'samsung')
+print(b.read('phone'))
