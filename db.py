@@ -32,3 +32,4 @@ while comand != "Exit":
                 print(file.readline())
 
     print(comands)
+    comand = input()
