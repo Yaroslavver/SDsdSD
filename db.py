@@ -1,3 +1,4 @@
-def ok():
-    return True
-print("wow")
+comand = int(input())
+while comand:
+
+with open("")
