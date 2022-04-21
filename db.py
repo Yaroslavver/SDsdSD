@@ -5,9 +5,14 @@ def check():
         type = input()
         print("Введите модель: ",end = "")
         model = input()
+        flag = True
         for dt in file:
-            if type in dt and model in dt:
-                print(dt[dt.index("#"):])
+            if type.lower() in dt.lower() and model.lower() in dt.lower():
+                print(dt[dt.index("#")+1:].replace("#", " | "))
+                flag = False
+        if flag:
+            print("Не найдено")
+        return
 
 
 def add(tip, model, info):
@@ -31,7 +36,7 @@ while comand != "Exit":
 
     elif comand == "3":
         with open("Base.txt","r") as file:
-            print(file.read())
+            print(file.read().replace("#"," | "))
 
     print(comands)
     comand = input()

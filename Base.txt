@@ -1,31 +1,30 @@
-РќРѕСѓС‚Р±СѓРє#Huawei MateBook D 16#16.1'', IPS, AMD Ryzen 5 4600H 3.0Р“Р“С†, 16Р“Р‘, 512Р“Р‘ SSD, AMD Radeon , Windows 10 Home, 53012QWM, СЃРµСЂС‹Р№
-РќРѕСѓС‚Р±СѓРє#Lenovo ThinkBook 15 G3 ACL#1920x1080, AMD Ryzen 5 2.1 Р“Р“С†, RAM 16 Р“Р‘, SSD 512 Р“Р‘, Р±РµР· РћРЎ
-РќРѕСѓС‚Р±СѓРє#HONOR MagicBook X 14NBR-WAI9 #1920x1080, Intel Core i3 2.1 Р“Р“С†, RAM 8 Р“Р‘, SSD 256 Р“Р‘, Win10 Home
-РќРѕСѓС‚Р±СѓРє#Acer Extensa 15 EX215-52-3796#Intel Core i3 1005G1, 1.2 GHz - 3.4 GHz, 8192 Mb, 15.6" Full HD 1920x1080, 512 Gb SSD, DVD РЅРµС‚, Intel UHD Graphics, Windows 10 Professional, С‡РµСЂРЅС‹Р№, 1.9 РєРі
-РЎРјР°СЂС‚С„РѕРЅ#TECNO Spark Go#2/32Gb, СЃРёРЅРёР№
-РЎРјР°СЂС‚С„РѕРЅ#Xiaomi Redmi Note 10S#6/128Gb, СЃРµСЂС‹Р№ РѕРЅРёРєСЃ
-РЎРјР°СЂС‚С„РѕРЅ#Lenovo K12 Pro#4/128Gb, XT2091-8, С„РёРѕР»РµС‚РѕРІС‹Р№
-РЎРјР°СЂС‚С„РѕРЅ#Huawei Y5P#32Gb, Р·РµР»РµРЅС‹Р№
-РЎРјР°СЂС‚С„РѕРЅ#Honor 50#6/128Gb, С‡РµСЂРЅС‹Р№
-РџР»Р°РЅС€РµС‚#Huawei MatePad T10s#4GB, 64GB, Android 10.0 HMS С‚РµРјРЅРѕ-СЃРёРЅРёР№
-РџР»Р°РЅС€РµС‚#HTC A100#8Р“Р‘, 128GB, 3G, 4G, Android 11 СЃРµСЂС‹Р№ РєРѕСЃРјРѕСЃ
-РџР»Р°РЅС€РµС‚#Lenovo Tab M10 Plus#TB-X606F, 4GB, 64GB, Android 9.0 СЃРµСЂС‹Р№
-РџР»Р°РЅС€РµС‚#HTC A100#8Р“Р‘, 128GB, 3G, 4G, Android 11 СЃРµСЂС‹Р№ Р»СѓРЅРЅС‹Р№
-РџР»Р°РЅС€РµС‚#Nokia T20#3Р“Р‘, 32GB, Android 11 РіРѕР»СѓР±РѕР№ [f20rid1a048]
-РџС‹Р»РµСЃРѕСЃ#LG VK76A02NTL#2000Р’С‚, С‡РµСЂРЅС‹Р№
-Р РѕР±РѕС‚-РїС‹Р»РµСЃРѕСЃ#Xiaomi Mi Robot Vacuum Mop Essential#25Р’С‚, Р±РµР»С‹Р№/С‡РµСЂРЅС‹Р№ [skv4136gl]
-РџС‹Р»РµСЃРѕСЃ#StarWind SCH1260#1000Р’С‚, РєРѕСЂРёС‡РЅРµРІС‹Р№/Р±РµР»С‹Р№
-РџС‹Р»РµСЃРѕСЃ#Philips 2000 Series XB2042/01#1800Р’С‚, Р±РµР»С‹Р№/РїРµСЂСЃРёРєРѕРІС‹Р№
-РџС‹Р»РµСЃРѕСЃ#Candy CAF1400 019#1400Р’С‚, РєСЂР°СЃРЅС‹Р№/Р±РµР»С‹Р№ [39002221]
-РџС‹Р»РµСЃРѕСЃ#DEERMA DX700s#600Р’С‚, С‡РµСЂРЅС‹Р№
-РќР°СѓС€РЅРёРєРё#Xiaomi Mi True Wireless Earbuds Basic 2#Bluetooth, РІРєР»Р°РґС‹С€Рё, С‡РµСЂРЅС‹Р№ [bhr4272gl]
-РќР°СѓС€РЅРёРєРё#Honor Choice#Bluetooth, РІРєР»Р°РґС‹С€Рё, Р±РµР»С‹Р№ [55041294/55041328]
-РќР°СѓС€РЅРёРєРё#Digma BT-14#Bluetooth, РЅР°РєР»Р°РґРЅС‹Рµ, С‡РµСЂРЅС‹Р№ [bt-14b]
-РќР°СѓС€РЅРёРєРё#HTC True Wireless Earbuds#Bluetooth, РІРєР»Р°РґС‹С€Рё, Р±РµР»С‹Р№
-РќР°СѓС€РЅРёРєРё#Sennheiser HD 206#3.5 РјРј, РјРѕРЅРёС‚РѕСЂРЅС‹Рµ, С‡РµСЂРЅС‹Р№/СЃРµСЂРµР±СЂРёСЃС‚С‹Р№ [507364]
-РќР°СѓС€РЅРёРєРё#JBL C100SI#3.5 РјРј, РІРєР»Р°РґС‹С€Рё, С‡РµСЂРЅС‹Р№ [jblc100siublk]
-MP3 РїР»РµРµСЂ#Digma Z4 BT#flash 16Р“Р‘ С‡РµСЂРЅС‹Р№
-MP3 РїР»РµРµСЂ#Sony NWZ-B183FB#flash 4Р“Р‘ С‡РµСЂРЅС‹Р№
-РњРёРєСЂРѕРІРѕР»РЅРѕРІР°СЏ РїРµС‡СЊ#SUNWIND SUN-MW001#600Р’С‚, 20Р», Р±РµР»С‹Р№
-РњРёРєСЂРѕРІРѕР»РЅРѕРІР°СЏ РїРµС‡СЊ#StarWind SWM5620#700Р’С‚, 20Р», Р±РµР»С‹Р№
-
+Ноутбук#Huawei MateBook D 16#16.1'', IPS, AMD Ryzen 5 4600H 3.0ГГц, 16ГБ, 512ГБ SSD, AMD Radeon , Windows 10 Home, 53012QWM, серый
+Ноутбук#Lenovo ThinkBook 15 G3 ACL#1920x1080, AMD Ryzen 5 2.1 ГГц, RAM 16 ГБ, SSD 512 ГБ, без ОС
+Ноутбук#HONOR MagicBook X 14NBR-WAI9 #1920x1080, Intel Core i3 2.1 ГГц, RAM 8 ГБ, SSD 256 ГБ, Win10 Home
+Ноутбук#Acer Extensa 15 EX215-52-3796#Intel Core i3 1005G1, 1.2 GHz - 3.4 GHz, 8192 Mb, 15.6" Full HD 1920x1080, 512 Gb SSD, DVD нет, Intel UHD Graphics, Windows 10 Professional, черный, 1.9 кг
+Смартфон#TECNO Spark Go#2/32Gb, синий
+Смартфон#Xiaomi Redmi Note 10S#6/128Gb, серый оникс
+Смартфон#Lenovo K12 Pro#4/128Gb, XT2091-8, фиолетовый
+Смартфон#Huawei Y5P#32Gb, зеленый
+Смартфон#Honor 50#6/128Gb, черный
+Планшет#Huawei MatePad T10s#4GB, 64GB, Android 10.0 HMS темно-синий
+Планшет#HTC A100#8ГБ, 128GB, 3G, 4G, Android 11 серый космос
+Планшет#Lenovo Tab M10 Plus#TB-X606F, 4GB, 64GB, Android 9.0 серый
+Планшет#HTC A100#8ГБ, 128GB, 3G, 4G, Android 11 серый лунный
+Планшет#Nokia T20#3ГБ, 32GB, Android 11 голубой [f20rid1a048]
+Пылесос#LG VK76A02NTL#2000Вт, черный
+Робот-пылесос#Xiaomi Mi Robot Vacuum Mop Essential#25Вт, белый/черный [skv4136gl]
+Пылесос#StarWind SCH1260#1000Вт, коричневый/белый
+Пылесос#Philips 2000 Series XB2042/01#1800Вт, белый/персиковый
+Пылесос#Candy CAF1400 019#1400Вт, красный/белый [39002221]
+Пылесос#DEERMA DX700s#600Вт, черный
+Наушники#Xiaomi Mi True Wireless Earbuds Basic 2#Bluetooth, вкладыши, черный [bhr4272gl]
+Наушники#Honor Choice#Bluetooth, вкладыши, белый [55041294/55041328]
+Наушники#Digma BT-14#Bluetooth, накладные, черный [bt-14b]
+Наушники#HTC True Wireless Earbuds#Bluetooth, вкладыши, белый
+Наушники#Sennheiser HD 206#3.5 мм, мониторные, черный/серебристый [507364]
+Наушники#JBL C100SI#3.5 мм, вкладыши, черный [jblc100siublk]
+MP3 плеер#Digma Z4 BT#flash 16ГБ черный
+MP3 плеер#Sony NWZ-B183FB#flash 4ГБ черный
+Микроволновая печь#SUNWIND SUN-MW001#600Вт, 20л, белый
+Микроволновая печь#StarWind SWM5620#700Вт, 20л, белый
