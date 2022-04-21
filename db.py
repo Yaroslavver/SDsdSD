@@ -1,17 +1,15 @@
 comands = "Выберите команду: \n1 - Поиск \n2 - Добавить устройство \n3 - Вывести список устройств \nExit - Выход"
-def check():
+def search():
     with open("Base.txt","r") as file:
-        print("Расширенный поиск: \nВведите тип устройства:",end = "")
-        type = input()
-        print("Введите модель: ",end = "")
-        model = input()
+        type = input("Расширенный поиск: \nВведите тип устройства:")
+        model = input("Введите модель: ")
         flag = True
         for dt in file:
             if type.lower() in dt.lower() and model.lower() in dt.lower():
                 print(dt[dt.index("#")+1:].replace("#", " | "))
                 flag = False
         if flag:
-            print("Не найдено")
+            print("Не найдено\n")
         return
 
 
@@ -26,7 +24,7 @@ print(comands)
 comand = input()
 while comand != "Exit":
     if comand == "1":
-        check()
+        search()
     elif comand == "2":
         a1 = input("___Тип устройства: ")
         a2 = input("___Модель или разработчик: ")
